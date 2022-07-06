@@ -1,5 +1,10 @@
-# Funciones variadicas y retornos con nombre.
+# Importante
 
-Las funciones variadicas nos permiten utilizar como slices los argumentos de funciones de los cuales no sabemos su longitud exacta.
+Previo a la ejecución de los test se requiere inicialiar el módulo
 
-Los retornos con nombre nos permiten definir variables antes de definir el cuerpo de la función, por lo cual utilizaremos return para devolverlos.
+# How To:
+To define a test must:
+
+- Create a the test file named <file>_test.go, where <file> is the name of the file you are testing
+- Write the tests
+- Run the tests with ```go test```
